@@ -13,5 +13,5 @@ Todos os PDFs serão feitos por mim, sempre irei deixar a fonte da qual tirei as
 
 - [Playlist completa do curso de Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
     -  [MUNDO 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
-    -  [MUNDO 2]()
+    -  [MUNDO 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
     -  [MUNDO 3]()
