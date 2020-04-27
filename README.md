@@ -8,7 +8,7 @@ Todos os PDFs serão feitos por mim, sempre irei deixar a fonte da qual tirei as
 
      **Obs:** Logo logo irei postar a prática.
 
-⇢ O canal aonde eu tive meu primeiro contato com a linguagem Python:
+⇢ Canal aonde eu tive meu primeiro contato com a linguagem Python:
 - [Canal Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
 
 - [Playlist completa do curso de Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
