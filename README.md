@@ -15,5 +15,6 @@ Todos os PDFs serão feitos por mim, sempre irei deixar a fonte da qual tirei as
     -  [MUNDO 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
     -  [MUNDO 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
     -  [MUNDO 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
-    -  [EXERCÍCIOS](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) 
+    -  [EXERCÍCIOS](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
+    
 Espero que gostem... Faço tudo com muito carinho ❤
